@@ -1,0 +1,14 @@
+# 构建产物（EXE 超过 100MB 不上传，本地保留）
+build/
+dist/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 临时文件
+*.log
+*.tmp
+*.bak
